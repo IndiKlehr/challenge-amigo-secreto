@@ -2,6 +2,8 @@
 Amigo Secreto Challenge 🎁
 ¡Bienvenido al proyecto del desafío "Amigo Secreto"! Este programa permite gestionar una lista de nombres, realizar sorteos aleatorios y mantener una experiencia divertida y fluida. 🥳
 
+### 😎 [Ver en Vivo] (http://127.0.0.1:3000/challenge-amigo-secreto_esp-main/index.html)
+ 
 Descripción del Proyecto 📚
 Este proyecto es una aplicación web interactiva que permite a los usuarios:
 
@@ -24,13 +26,6 @@ Sorteo aleatorio: Selección justa y completamente aleatoria.
 
 Reinicio: Una función para volver al estado inicial sin recargar la página.
 
-Instrucciones de Uso 🛠️
-Clonar el repositorio:
-
-bash
-git clone https://github.com/Indiklehr/amigo-secreto.git
-cd amigo-secreto
-Abrir en el navegador: Solo necesitas abrir el archivo index.html en tu navegador favorito. ¡No se requieren dependencias externas!
 
 Interacción:
 
@@ -48,9 +43,6 @@ HTML → Estructura semántica y accesible.
 CSS → Código limpio, organizado y escalable.
 JavaScript → Lógica interactiva y manipulaciones del DOM.
 Copilot AI → Apoyo a encontrar errores en el programa.
-
-JavaScript
-Autor ✍️
 Nombre: [Indira Ayelén]
 
 GitHub: IndiKlehr
