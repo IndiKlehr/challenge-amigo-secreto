@@ -16,17 +16,26 @@ Reiniciar el programa sin necesidad de recargar la página.
 
 El objetivo principal es aprender y practicar habilidades en JavaScript, manipulación del DOM y lógica básica para la programación interactiva.
 
+
+
 Características Principales ✨
+
+
 Interfaz interactiva: Permite agregar, eliminar y gestionar nombres con facilidad.
 
 Validación de entradas:
 Se asegura de que los nombres no estén vacíos ni duplicados.
 
+
+
 Sorteo aleatorio:
 Selección justa y completamente aleatoria.
 
+
+
 Reinicio: 
 Una función para volver al estado inicial sin recargar la página.
+
 
 
 Interacción: 
