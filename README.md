@@ -55,7 +55,10 @@ HTML → Estructura semántica y accesible.
 CSS → Código limpio, organizado y escalable.
 JavaScript → Lógica interactiva y manipulaciones del DOM.
 Copilot AI → Apoyo a encontrar errores en el programa.
-Nombre: [Indira Ayelén]
+
+
+
+### Nombre: [Indira Ayelén]
 
 
 ### Contribuciones 🤝
