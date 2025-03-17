@@ -40,20 +40,20 @@ Una función para volver al estado inicial sin recargar la página.
 
 
 - **Interacción:** 
-
 Ingresa el nombre de los participantes en el cuadro de texto.
-
 Haz clic en "Agregar" para añadir nombres a la lista.
-
 Haz clic en "Sortear" para seleccionar aleatoriamente un amigo secreto.
-
 Si deseas comenzar de nuevo, utiliza el botón "Reiniciar".
+
 
 ### Tecnologías Utilizadas 🖥️
 
 -HTML → Estructura semántica y accesible.
+
 -CSS → Código limpio, organizado y escalable.
+
 -JavaScript → Lógica interactiva y manipulaciones del DOM.
+
 -Copilot AI → Apoyo a encontrar errores en el programa.
 
 
