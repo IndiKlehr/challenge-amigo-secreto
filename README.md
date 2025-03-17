@@ -1,6 +1,8 @@
 # challenge-amigo-secreto
 Amigo Secreto Challenge 🎁
 ¡Bienvenido al proyecto del desafío "Amigo Secreto"! Este programa permite gestionar una lista de nombres, realizar sorteos aleatorios y mantener una experiencia divertida y fluida. 🥳
+![image](https://github.com/user-attachments/assets/b2a58fae-c288-4eac-bb37-8970e3a1a9f8)
+
 
 ### 😎 [Ver en Vivo](http://127.0.0.1:3000/challenge-amigo-secreto_esp-main/index.html)
 ### Descripción del Proyecto 📚
