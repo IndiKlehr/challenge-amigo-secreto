@@ -19,14 +19,17 @@ El objetivo principal es aprender y practicar habilidades en JavaScript, manipul
 Características Principales ✨
 Interfaz interactiva: Permite agregar, eliminar y gestionar nombres con facilidad.
 
-Validación de entradas: Se asegura de que los nombres no estén vacíos ni duplicados.
+Validación de entradas:
+Se asegura de que los nombres no estén vacíos ni duplicados.
 
-Sorteo aleatorio: Selección justa y completamente aleatoria.
+Sorteo aleatorio:
+Selección justa y completamente aleatoria.
 
-Reinicio: Una función para volver al estado inicial sin recargar la página.
+Reinicio: 
+Una función para volver al estado inicial sin recargar la página.
 
 
-Interacción:
+Interacción: 
 
 Ingresa el nombre de los participantes en el cuadro de texto.
 
