@@ -3,7 +3,7 @@ Amigo Secreto Challenge 🎁
 ¡Bienvenido al proyecto del desafío "Amigo Secreto"! Este programa permite gestionar una lista de nombres, realizar sorteos aleatorios y mantener una experiencia divertida y fluida. 🥳
 
 ### 😎 [Ver en Vivo](http://127.0.0.1:3000/challenge-amigo-secreto_esp-main/index.html)
-Descripción del Proyecto 📚
+### Descripción del Proyecto 📚
 Este proyecto es una aplicación web interactiva que permite a los usuarios:
 
 Agregar nombres a una lista de participantes.
@@ -18,10 +18,11 @@ El objetivo principal es aprender y practicar habilidades en JavaScript, manipul
 
 
 
-Características Principales ✨
+### Características Principales ✨
 
 
 Interfaz interactiva: Permite agregar, eliminar y gestionar nombres con facilidad.
+
 
 Validación de entradas:
 Se asegura de que los nombres no estén vacíos ni duplicados.
@@ -48,7 +49,7 @@ Haz clic en "Sortear" para seleccionar aleatoriamente un amigo secreto.
 
 Si deseas comenzar de nuevo, utiliza el botón "Reiniciar".
 
-Tecnologías Utilizadas 🖥️
+### Tecnologías Utilizadas 🖥️
 
 HTML → Estructura semántica y accesible.
 CSS → Código limpio, organizado y escalable.
@@ -56,7 +57,6 @@ JavaScript → Lógica interactiva y manipulaciones del DOM.
 Copilot AI → Apoyo a encontrar errores en el programa.
 Nombre: [Indira Ayelén]
 
-GitHub: IndiKlehr
 
-Contribuciones 🤝
+### Contribuciones 🤝
 ¡Las contribuciones son bienvenidas!
