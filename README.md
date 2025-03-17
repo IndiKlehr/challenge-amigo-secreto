@@ -2,8 +2,7 @@
 Amigo Secreto Challenge 🎁
 ¡Bienvenido al proyecto del desafío "Amigo Secreto"! Este programa permite gestionar una lista de nombres, realizar sorteos aleatorios y mantener una experiencia divertida y fluida. 🥳
 
-### 😎 [Ver en Vivo] (http://127.0.0.1:3000/challenge-amigo-secreto_esp-main/index.html) (challenge-amigo-secreto_esp-main/index.html)
- 
+### 😎 [Ver en Vivo](http://127.0.0.1:3000/challenge-amigo-secreto_esp-main/index.html)
 Descripción del Proyecto 📚
 Este proyecto es una aplicación web interactiva que permite a los usuarios:
 
