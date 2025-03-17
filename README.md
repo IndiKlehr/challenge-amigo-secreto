@@ -21,25 +21,25 @@ El objetivo principal es aprender y practicar habilidades en JavaScript, manipul
 ### Características Principales ✨
 
 
-Interfaz interactiva: Permite agregar, eliminar y gestionar nombres con facilidad.
+- **Interfaz interactiva:** Permite agregar, eliminar y gestionar nombres con facilidad.
 
 
-Validación de entradas:
+- **Validación de entradas:**
 Se asegura de que los nombres no estén vacíos ni duplicados.
 
 
 
-Sorteo aleatorio:
+- **Sorteo aleatorio:**
 Selección justa y completamente aleatoria.
 
 
 
-Reinicio: 
+- **Reinicio:** 
 Una función para volver al estado inicial sin recargar la página.
 
 
 
-Interacción: 
+- **Interacción:** 
 
 Ingresa el nombre de los participantes en el cuadro de texto.
 
@@ -51,10 +51,10 @@ Si deseas comenzar de nuevo, utiliza el botón "Reiniciar".
 
 ### Tecnologías Utilizadas 🖥️
 
-HTML → Estructura semántica y accesible.
-CSS → Código limpio, organizado y escalable.
-JavaScript → Lógica interactiva y manipulaciones del DOM.
-Copilot AI → Apoyo a encontrar errores en el programa.
+-HTML → Estructura semántica y accesible.
+-CSS → Código limpio, organizado y escalable.
+-JavaScript → Lógica interactiva y manipulaciones del DOM.
+-Copilot AI → Apoyo a encontrar errores en el programa.
 
 
 
